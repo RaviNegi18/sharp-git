@@ -2,7 +2,7 @@ import React from 'react'
 
 const App = () => {
   return (
-    <div>main this is main branch</div>
+    <div>this is staging now</div>
   )
 }
 
